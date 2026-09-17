@@ -1,7 +1,3 @@
-"""
-包含对齐网络的model代码
-还有训练代码
-"""
 import os
 import torch
 from torch import nn
